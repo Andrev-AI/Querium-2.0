@@ -1,0 +1,17 @@
+Baixe o classificador em https://huggingface.co/nickmuchi/finbert-tone-finetuned-finance-topic-classification/tree/main 
+Salve tudo dento da pasta "classifier", Baixe os arquivos:
+* config.json;
+* pytorch_model.bin;
+* special_tokens_map.json;
+* tokenizer_config.json;
+* tokenizer.json;
+* vocab.txt;
+
+Download the classifier from https://huggingface.co/nickmuchi/finbert-tone-finetuned-finance-topic-classification/tree/main
+Save everything inside a folder named "classifier". Download the following files:
+* config.json;
+* pytorch_model.bin;
+* special_tokens_map.json;
+* tokenizer_config.json;
+* tokenizer.json;
+* vocab.txt;
